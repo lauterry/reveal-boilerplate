@@ -632,3 +632,8 @@ MIT licensed
 
 Copyright (C) 2013 Hakim El Hattab, http://hakim.se
 
+=======
+reveal-boilerplate
+==================
+
+My reveal template for my personal presentation
